@@ -7,7 +7,7 @@ Hello, I'm Leon! I'm a computer science student specializing in Java, C, and C++
 
 ## Technologies & Tools
 - **Languages:** C, C++, Java, C#
-- **IDEs:** IntelliJ IDEA, CLion, Visual Studio Code, Android Studio
+- **IDEs/Editors:** IntelliJ IDEA, CLion, Visual Studio Code, Android Studio, Vim
 - **Embedded:** Raspberry Pi Pico, STM32 Microcontroller
 - **Other Tools:** GNU Compiler Collection, ARM GNU Compiler Toolchain
 
